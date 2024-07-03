@@ -1,0 +1,1 @@
+alert("Welcome to Vedant Roy's Media Player. This my own Media Player where I can play musics through audio and videos");
