@@ -34,6 +34,4 @@ To view this project locally:
 
 This project is a non-commercial, educational clone of the UltraEdit download page. It has been developed solely to showcase my coding skills and is not intended for any commercial use or to replicate the business model of UltraEdit. All rights to the original content and design elements are reserved by the original owners of UltraEdit. Please visit UltraEdit's official website for the original software and more information. Click on [UltraEdit](https://www.ultraedit.com/downloads/ultraedit-download-thank-you/?utm_source=CWH&utm_medium=LeadsAcquisition&utm_content=UEDownload&utm_campaign=UETrialDownload) for accessing the original download page of ultra Edit website.
 
-## Preview
 
-![Page Preview](./UltraEditDownloadPageFiles/Read%20our%20reviews.png)
